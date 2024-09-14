@@ -1,0 +1,9 @@
+.Header{
+    background-color: red;
+}
+.gptContainer{
+    height: 90%;
+    width: 90%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
